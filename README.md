@@ -51,11 +51,11 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ### 🌐 Chrome Extension Setup
 
-Open Chrome → Go to chrome://extensions/
-Enable Developer mode (top-right corner)
-Click Load unpacked and select the extension/ folder
-The extension will appear in your browser
-Enter news text in the popup → Click Check → Get result instantly 🚀
+-Open Chrome → Go to chrome://extensions/
+-Enable Developer mode (top-right corner)
+-Click Load unpacked and select the extension/ folder
+-The extension will appear in your browser
+-Enter news text in the popup → Click Check → Get result instantly 🚀
 
 ### 📊 Tech Stack
 Python
