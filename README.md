@@ -46,3 +46,31 @@ curl -X POST http://127.0.0.1:5000/predict \
   "confidence": 0.9823
 }
 ```
+
+
+
+### 🌐 Chrome Extension Setup
+
+Open Chrome → Go to chrome://extensions/
+Enable Developer mode (top-right corner)
+Click Load unpacked and select the extension/ folder
+The extension will appear in your browser
+Enter news text in the popup → Click Check → Get result instantly 🚀
+
+### 📊 Tech Stack
+Python
+Flask
+Scikit-learn
+Chrome Extension (JavaScript, HTML, CSS)
+
+### 👨‍💻 Author
+Lakavath Raghuram
+B.Tech Final Year, IIIT Kottayam
+Areas of Interest: Machine Learning, Deep Learning, Computer Vision
+
+
+
+
+
+
+Extension (JavaScript, HTML, CSS)
